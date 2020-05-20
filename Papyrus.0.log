@@ -1,0 +1,139 @@
+[05/20/2020 - 01:23:25AM] Papyrus log opened (PC-64)
+[05/20/2020 - 01:23:25AM] Update budget: 1.200000ms (Extra tasklet budget: 1.200000ms, Load screen budget: 500.000000ms)
+[05/20/2020 - 01:23:25AM] Memory page: 128 (min) 512 (max) 153600 (max total)
+[05/20/2020 - 01:23:25AM] Maximum stack depth: 100
+[05/20/2020 - 01:23:25AM] This is a script log only and does not contain information on any other part of the game, including crashes.
+[05/20/2020 - 01:23:26AM] Cannot open store for class "ccRZRFO4001:ccRZRFO4001_SetStageOnTriggerEnter", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "ccRZRFO4001:ccRZRFO4001_RadioSceneScript", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "CreationClub:SWKFO4001:UnlockPostersScript", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "CreationClub:SWKFO4001:RefAliasRedemptionMachine", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "CreationClub:SWKFO4001:ccSWKFO4001_CaptainCosmosQuestScript", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "CreationClub:SWKFO4001:RefAliasOnContainerChange", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "CreationClub:SWKFO4001:RefAliasPowerArmorEnter", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "CreationClub:SWKFO4001:RefAliasExitDoor", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "CreationClub:SWKFO4001:RefAliasEntryDoor", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "CreationClub:ZSEFO4001:RefAliasDoor", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "CreationClub:TOSFO4001:NeoSkyLightSwitchScript", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "CreationClub:TOSFO4001:HolotapeAliasCheckScript", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "CreationClub:TOSFO4001:SynthDeathAliasCheckScript", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "CreationClub:KGJFO4001:AdjustMaxHealth", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "CreationClub:KGJFO4001:DisableBleedoutRecovery", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "CreationClub:KGJFO4001:ViewRaidRecords", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "creationclub:kgjfo4001:endlessraidmanagerscript", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "creationclub:kgjfo4001:alterturrets", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "creationclub:kgjfo4001:datastructs", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "creationclub:kgjfo4001:raidtype", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "CreationClub:KGJFO4001:CameraScript", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "creationclub:kgjfo4001:cameramonitorscript", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "CreationClub:KGJFO4001:RaidTrigger", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "CreationClub:KGJFO4001:CameraTriggerBox", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "CreationClub:KGJFO4001:CameraMonitorBank", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "CreationClub:KGJFO4001:ShootingRangeStation", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "creationclub:kgjfo4001:shootingrange", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "CreationClub:KGJFO4001:RemoveFromAliasOnDeath", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "CreationClub:KGJFO4001:AlterSettlers", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "CreationClub:KGJFO4001:REScriptExtension", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "CreationClub:KGJFO4001:InducedRaidScript", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "CreationClub:KGJFO4001:AlterAttackers", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "creationclub:kgjfo4001:namepoolscript", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "CreationClub:KGJFO4001:StartVertibird", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "CreationClub:KGJFO4001:LinkedNamePoolScript", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "ccFRSFO4003:TerminalScript", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "ccFRSFO4003:cc_ObjectivesObtainedCheckScript", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "ccSBJFO4002:RadstagActivateScript", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "ccSBJFO4002:RadstageActivateScript", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "ccSBJFO4002:RadstagTeleportBackup", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "CreationClub:TOSFO4002:LightEnableDisableScript", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "CreationClub:TOSFO4002:TerminalSetStageScript", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "CreationClub:TOSFO4002:TerminalHackScript", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "creationclub:tosfo4002:counterscript", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "CreationClub:TOSFO4002:SynthUnconsciousScript", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "CreationClub:TOSFO4002:SignalStrengthScript", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "ccBGSFO4117:WaveEnableFunctionScript", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "ccBGSFO4046_:PickupCloakEffectScript", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "ccBGSFO4046_:GunnerTerminalScript", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "ccBGSFO4046_:GunnerSignalStrengthScript", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "ccBGSFO4046_:GunnerPipboyPerkScript", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "ccBGSFO4117:RadioOffonActivateScript", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "ccBGSFO4117:BlockActivation", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "CreationClub:TOSFO4002:SynthEncounterDisableScript", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "DLC04:DLC04OperatorsRifleAnimationScript", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "ccRZRFO4001:ccRZRFO4001_RadioSceneToggleScript", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "CreationClub:SWKFO4001:ChainedDoorLoad", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "CreationClub:SWKFO4001:ChainLoadDoor", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "CreationClub:TOSFO4002:ccTOSFO4002_LightSwitch", missing file?
+[05/20/2020 - 01:23:26AM] Cannot open store for class "ccBGSFO4117:OnActivateTeleportScript", missing file?
+[05/20/2020 - 01:23:30AM] Cannot open store for class "ToasterRoFSwitch", missing file?
+[05/20/2020 - 01:23:30AM] Cannot open store for class "ToasterPlaceThings", missing file?
+[05/20/2020 - 01:23:30AM] Cannot open store for class "BTInt_DRGN_KeyScript", missing file?
+[05/20/2020 - 01:23:31AM] Cannot open store for class "CROSS_weaponfireeffect", missing file?
+[05/20/2020 - 01:23:31AM] Cannot open store for class "CROSSLLManagerScript_TEMP_DO_NOT_USE", missing file?
+[05/20/2020 - 01:23:31AM] error: Unable to bind script CROSSLLManagerScript_TEMP_DO_NOT_USE to CROSSqust_LLPopulate_Legendary_TEMP (1D002147) because their base types do not match
+[05/20/2020 - 01:23:32AM] Cannot open store for class "MCAMAddToLL_2_0", missing file?
+[05/20/2020 - 01:23:32AM] error: Unable to bind script MCAMAddToLL_2_0 to MCAM_Startup_Quest2_0 (490448F0) because their base types do not match
+[05/20/2020 - 01:23:33AM] Cannot open store for class "AmmoLLInject", missing file?
+[05/20/2020 - 01:23:33AM] error: Unable to bind script AmmoLLInject to 9mmAmmoLL (6900898E) because their base types do not match
+[05/20/2020 - 01:23:34AM] Cannot open store for class "recipecontainer:remotecontainer", missing file?
+[05/20/2020 - 01:23:41AM] error: Unable to bind script DefaultAliasDisableHavokOnLoad to  (1C03D677) because their base types do not match
+[05/20/2020 - 01:23:41AM] error: Unable to bind script DefaultAliasDisableHavokOnLoad to  (1C03D676) because their base types do not match
+[05/20/2020 - 01:23:41AM] error: Unable to bind script DefaultAliasDisableHavokOnLoad to  (1C03D675) because their base types do not match
+[05/20/2020 - 01:23:41AM] error: Unable to bind script DefaultAliasDisableHavokOnLoad to  (1C03D674) because their base types do not match
+[05/20/2020 - 01:23:41AM] error: Unable to bind script DefaultAliasDisableHavokOnLoad to  (1C03D673) because their base types do not match
+[05/20/2020 - 01:23:41AM] error: Unable to bind script DefaultAliasDisableHavokOnLoad to  (1C03D672) because their base types do not match
+[05/20/2020 - 01:23:41AM] error: Unable to bind script DefaultAliasDisableHavokOnLoad to  (1C03D671) because their base types do not match
+[05/20/2020 - 01:23:41AM] error: Unable to bind script UDStmSheltersAmbienceRem to  (1C056E2E) because their base types do not match
+[05/20/2020 - 01:23:49AM] error: Unable to bind script BTInt_DRGN_KeyScript to alias DRGN_GnomeHome_Key on quest BTint_DRGN_Quest_01 (166531DE) because their base types do not match
+[05/20/2020 - 01:23:49AM] warning: Property LL_Minutemen_Weapons_Random on script IF88LLinjector attached to IF88LListInjector (6300262C) cannot be initialized because the script no longer contains that property
+[05/20/2020 - 01:23:49AM] warning: Property modName on script FunctionalDisplaysMenuInstallerScript attached to 99_MenuCategoriesInstaller (320008CB) cannot be initialized because the script no longer contains that property
+[05/20/2020 - 01:23:49AM] warning: Property LinkCustom01 on script UDStm_leakActivatorScript attached to  (1C4941A3) cannot be initialized because the script no longer contains that property
+[05/20/2020 - 01:23:49AM] error: Property leakCheck on script UDStm_leakActivatorScript attached to  (1C4941A3) cannot be bound because <nullptr form> (1C4C824F) is not the right type
+[05/20/2020 - 01:23:49AM] error: Property Alias_AttackSpawn4REF on script zjs_OS_Main attached to zjs_OS_Main (520018D9) cannot be bound because <nullptr alias> (39) on quest zjs_OS_Main (520018D9) is not the right type
+[05/20/2020 - 01:23:49AM] warning: Property XMarker01 on script SpawnGhoul02 attached to  (49030B52) cannot be initialized because the script no longer contains that property
+[05/20/2020 - 01:23:49AM] warning: Property LvlFeralGhoulAmbush on script SpawnGhoul02 attached to  (49030B52) cannot be initialized because the script no longer contains that property
+[05/20/2020 - 01:23:49AM] error: Property List01 on script UDStm_testscriptxxxx attached to  (1C508F4C) cannot be bound because <nullptr form> (1C504A26) is not the right type
+[05/20/2020 - 01:23:49AM] error: Property List01 on script UDStm_HolderScript attached to 0UDStm__InfoHolder (1C504A40) cannot be bound because <nullptr form> (1C504A26) is not the right type
+[05/20/2020 - 01:23:50AM] warning: Property f3DNPC_BunkerJukeboxKey on script f3DNPC_:Bunker_Jukebox attached to  (1A0068EC) cannot be initialized because the script no longer contains that property
+[05/20/2020 - 01:23:50AM] error: Property TriggerAliases on script DefaultRefOnTriggerEnterMultiActor attached to  (1A015AD9) cannot be initialized because the value is the incorrect type
+[05/20/2020 - 01:23:50AM] error: Property SettleScript on script SETTLE_Script attached to SettlementUnlimiter (2E0090A3) cannot be bound because <nullptr form> (460090A3) is not the right type
+[05/20/2020 - 01:23:50AM] error: Property TriggerActors on script DefaultRefOnTriggerEnterMultiActor attached to  (1A020027) cannot be initialized because the value is the incorrect type
+[05/20/2020 - 01:23:50AM] error: Property SpawnLoc on script UDStm_generatorscript attached to  (1C4122FE) cannot be bound because <nullptr form> (1C4098CC) is not the right type
+[05/20/2020 - 01:23:50AM] VM is freezing...
+[05/20/2020 - 01:23:50AM] VM is frozen
+[05/20/2020 - 01:23:50AM] Reverting game...
+[05/20/2020 - 01:23:50AM] error: Unable to bind script DefaultAliasDisableHavokOnLoad to  (1C03D675) because their base types do not match
+[05/20/2020 - 01:23:50AM] error: Unable to bind script DefaultAliasDisableHavokOnLoad to  (1C03D677) because their base types do not match
+[05/20/2020 - 01:23:50AM] error: Unable to bind script DefaultAliasDisableHavokOnLoad to  (1C03D673) because their base types do not match
+[05/20/2020 - 01:23:50AM] error: Unable to bind script DefaultAliasDisableHavokOnLoad to  (1C03D672) because their base types do not match
+[05/20/2020 - 01:23:50AM] error: Unable to bind script UDStmSheltersAmbienceRem to  (1C056E2E) because their base types do not match
+[05/20/2020 - 01:23:50AM] error: Unable to bind script AmmoLLInject to 9mmAmmoLL (6900898E) because their base types do not match
+[05/20/2020 - 01:23:50AM] error: Unable to bind script DefaultAliasDisableHavokOnLoad to  (1C03D671) because their base types do not match
+[05/20/2020 - 01:23:50AM] error: Unable to bind script MCAMAddToLL_2_0 to MCAM_Startup_Quest2_0 (490448F0) because their base types do not match
+[05/20/2020 - 01:23:50AM] error: Unable to bind script DefaultAliasDisableHavokOnLoad to  (1C03D674) because their base types do not match
+[05/20/2020 - 01:23:50AM] error: Unable to bind script CROSSLLManagerScript_TEMP_DO_NOT_USE to CROSSqust_LLPopulate_Legendary_TEMP (1D002147) because their base types do not match
+[05/20/2020 - 01:23:50AM] error: Unable to bind script DefaultAliasDisableHavokOnLoad to  (1C03D676) because their base types do not match
+[05/20/2020 - 01:25:30AM] Loading game...
+[05/20/2020 - 01:25:30AM] error: Unable to bind script BTInt_DRGN_KeyScript to alias DRGN_GnomeHome_Key on quest BTint_DRGN_Quest_01 (166531DE) because their base types do not match
+[05/20/2020 - 01:25:30AM] warning: Property LinkCustom01 on script UDStm_leakActivatorScript attached to  (1C4941A3) cannot be initialized because the script no longer contains that property
+[05/20/2020 - 01:25:30AM] error: Property leakCheck on script UDStm_leakActivatorScript attached to  (1C4941A3) cannot be bound because <nullptr form> (1C4C824F) is not the right type
+[05/20/2020 - 01:25:30AM] error: Property List01 on script UDStm_testscriptxxxx attached to  (1C508F4C) cannot be bound because <nullptr form> (1C504A26) is not the right type
+[05/20/2020 - 01:25:30AM] warning: Property f3DNPC_BunkerJukeboxKey on script f3DNPC_:Bunker_Jukebox attached to  (1A0068EC) cannot be initialized because the script no longer contains that property
+[05/20/2020 - 01:25:30AM] error: Property Alias_AttackSpawn4REF on script zjs_OS_Main attached to zjs_OS_Main (520018D9) cannot be bound because <nullptr alias> (39) on quest zjs_OS_Main (520018D9) is not the right type
+[05/20/2020 - 01:25:30AM] error: Property List01 on script UDStm_HolderScript attached to 0UDStm__InfoHolder (1C504A40) cannot be bound because <nullptr form> (1C504A26) is not the right type
+[05/20/2020 - 01:25:30AM] error: Property SettleScript on script SETTLE_Script attached to SettlementUnlimiter (2E0090A3) cannot be bound because <nullptr form> (460090A3) is not the right type
+[05/20/2020 - 01:25:30AM] error: Property TriggerAliases on script DefaultRefOnTriggerEnterMultiActor attached to  (1A015AD9) cannot be initialized because the value is the incorrect type
+[05/20/2020 - 01:25:30AM] error: Property SpawnLoc on script UDStm_generatorscript attached to  (1C4122FE) cannot be bound because <nullptr form> (1C4098CC) is not the right type
+[05/20/2020 - 01:25:30AM] warning: Property modName on script FunctionalDisplaysMenuInstallerScript attached to 99_MenuCategoriesInstaller (320008CB) cannot be initialized because the script no longer contains that property
+[05/20/2020 - 01:25:30AM] warning: Property LL_Minutemen_Weapons_Random on script IF88LLinjector attached to IF88LListInjector (6300262C) cannot be initialized because the script no longer contains that property
+[05/20/2020 - 01:25:30AM] error: Property TriggerActors on script DefaultRefOnTriggerEnterMultiActor attached to  (1A020027) cannot be initialized because the value is the incorrect type
+[05/20/2020 - 01:25:30AM] warning: Property XMarker01 on script SpawnGhoul02 attached to  (49030B52) cannot be initialized because the script no longer contains that property
+[05/20/2020 - 01:25:30AM] warning: Property LvlFeralGhoulAmbush on script SpawnGhoul02 attached to  (49030B52) cannot be initialized because the script no longer contains that property
+[05/20/2020 - 01:25:30AM] warning: Variable ::RemoteContainer_var on script recipecontainer:logic has an invalid type recipecontainer:remotecontainer loaded from save. This variable will be skipped.
+[05/20/2020 - 01:25:30AM] error: Variable object type recipecontainer:remotecontainer is unknown - data will be ignored
+[05/20/2020 - 01:25:30AM] error: Unable to load object 0x000001FBAACB9EA0 from save game
+[05/20/2020 - 01:25:30AM] Errors occurred while loading the Papyrus save game data
+[05/20/2020 - 01:25:35AM] VM is thawing...
+[05/20/2020 - 01:25:35AM] installed menu for: Workshop Terminals
+[05/20/2020 - 01:25:35AM] CWMR: OnPlayerLoadGame
+[05/20/2020 - 01:25:35AM] CWMR: Formlist Addition
+[05/20/2020 - 01:25:35AM] installed menu for: Workshop Terminals
+[05/20/2020 - 01:25:35AM] warning: Property modName on script FunctionalDisplaysMenuInstallerScript attached to 99_MenuCategoriesInstaller (320008CB) cannot be initialized because the script no longer contains that property
